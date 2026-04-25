@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Loran 
 
-<!--
-**loran83/loran83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently transitioning into a Data Analyst role after completing a Data Science / Data Analytics program with TripleTen.
 
-Here are some ideas to get you started:
+I’ve been building projects using Python, SQL, data analysis, visualization, and machine learning. I enjoy working with data because it helps uncover patterns and turn messy information into something clear and useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm Building
+
+- Python
+- SQL
+- Pandas
+- Data Analysis
+- Data Visualization
+- Machine Learning
+- Git & GitHub
+
+## Projects
+
+- [Used Car Price Dashboard](https://github.com/loran83/used-car-price-dashboard)  
+  An interactive Streamlit dashboard exploring used car pricing trends.
+
+- [Customer Churn Prediction](https://github.com/loran83/customer-churn-prediction)  
+  A machine learning project focused on identifying customers likely to leave a telecom company.
+
+- [Taxi Demand Forecasting](https://github.com/loran83/taxi-demand-forecasting)  
+  A time series project predicting hourly taxi demand.
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/loranimeroski/)
+- Email: loran.imeroski@gmail.com
