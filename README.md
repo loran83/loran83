@@ -1,4 +1,4 @@
-# Hi, I'm Loran 
+# Hi, I'm Loran  
 
 I'm currently transitioning into a Data Analyst role after completing a Data Science / Data Analytics program with TripleTen.
 
