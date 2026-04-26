@@ -4,15 +4,15 @@ I'm currently transitioning into a Data Analyst role after completing a Data Sci
 
 I’ve been building projects using Python, SQL, data analysis, visualization, and machine learning. I enjoy working with data because it helps uncover patterns and turn messy information into something clear and useful.
 
-## Skills I'm Building
+Skills
 
-- Python
-- SQL
-- Pandas
-- Data Analysis
-- Data Visualization
-- Machine Learning
-- Git & GitHub
+• Python  
+• SQL  
+• Pandas  
+• Data Analysis  
+• Data Visualization  
+• Machine Learning  
+• Git & GitHub  
 
 ## Projects
 
