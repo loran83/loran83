@@ -17,16 +17,16 @@ Skills
 ## Projects
 
 - [Used Car Price Dashboard](https://github.com/loran83/used-car-price-dashboard)  
-  An interactive Streamlit dashboard exploring used car pricing trends.
+  Interactive Streamlit dashboard analyzing used car pricing trends to support data-driven decision making.
 
 - [Customer Churn Prediction](https://github.com/loran83/customer-churn-prediction)  
-  A machine learning project focused on identifying customers likely to leave a telecom company.
+  Machine learning project identifying customers likely to leave a telecom company, achieving ~0.90 AUC-ROC.
 
 - [Taxi Demand Forecasting](https://github.com/loran83/taxi-demand-forecasting)  
-  A time series project predicting hourly taxi demand.
+  Time series forecasting project predicting hourly taxi demand to improve resource planning.
 
 - [Ride-Sharing Data Analysis](https://github.com/loran83/ride-sharing-analysis)  
-Analysis of ride-sharing data using SQL and Python to uncover demand patterns, competitor activity, and the impact of weather on ride frequency.
+SQL and Python analysis of ride-sharing data to uncover demand patterns, competitor performance, and weather impact.
 
 ## Connect With Me
 
