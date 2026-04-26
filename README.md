@@ -25,7 +25,7 @@ I’ve been building projects using Python, SQL, data analysis, visualization, a
 - [Taxi Demand Forecasting](https://github.com/loran83/taxi-demand-forecasting)  
   A time series project predicting hourly taxi demand.
 
-- Ride-Sharing Data Analysis  
+- [Ride-Sharing Data Analysis](https://github.com/loran83/ride-sharing-analysis)  
 Analysis of ride-sharing data using SQL and Python to uncover demand patterns, competitor activity, and the impact of weather on ride frequency.
 
 ## Connect With Me
